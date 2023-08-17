@@ -1,5 +1,5 @@
 # CRUD-Operation-for-Employee-and-Company-Database-using-PHP
-
+# I project I did when I was studying Web Technologies on Thapathali Campus, TU.
 
 Make sure to create DB and inside that DB create two tables company and employee.
 
